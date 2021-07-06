@@ -11,4 +11,4 @@ It is currently uploaded as is and is thus a mess, however the main points are a
   - `:pD`, percentage that are super conductors (`D` for diagonal), stored as numerator of x/10.
   - `:pF`, percentage of simulations which formed a path, stored as numerator of x/100.
 
-See `https://github.com/joshuacoles/Coursework-2/tree/c` for the code to generate this data.
+See https://github.com/joshuacoles/Coursework-2/tree/c for the code to generate this data.
